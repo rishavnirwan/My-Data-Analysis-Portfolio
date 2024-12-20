@@ -1,2 +1,2 @@
 # My-Data-Analysis-Portfolio
-Showcasing my data analysis projects using Python, Power BI, and Excel, including insights from real-world datasets and professional internships.
+A collection of data analysis projects demonstrating skills in Python, Power BI, and Excel, featuring real-world datasets, internship experiences, and actionable insights.
